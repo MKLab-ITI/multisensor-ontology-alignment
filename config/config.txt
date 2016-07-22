@@ -1,0 +1,1 @@
+wndir=C:/Projects/MULTISENSOR/Related software/Wordnet-3.0/dict
